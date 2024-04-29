@@ -11,7 +11,7 @@
 * Loves coffee, lofi hip-hop, and rescuing dogs from shelters
 * Sports Fanatic: Manchester United, Seattle Seahawks, Seattle Mariners, and waiting for the Seattle Sonics to come back... 
 
-<h4>After 8+ years of working in the cloud as a cloud architect, I have fallen in love with the following areas of technology</h4>
+<h4>After 8+ years of working as a Cloud Architect, I have fallen in love with the following areas of cloud computing</h4>
 
 - DevOps
 - Tools/Frameworks that make building and deploying containers easier
