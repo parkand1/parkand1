@@ -4,7 +4,7 @@
 
 * I'm based out of San Diego, CA
 * Check out my blog/personal website at [drupark.net](http://drupark.net)
-* You can contact me at [andrewpark93@hotmail.com](mailto:andrewpark93@hotmail.com) but please don't try and sell me anything via email 
+* You can contact me at [andrewpark93@hotmail.com](mailto:andrewpark93@hotmail.com) 
 * I'm currently focused on teaching people to love [EKS Blueprints for CDK (Typescript)](http://catalog.workshops.aws/eks-blueprints-for-cdk/en-US/030-create-eks-blueprints/1-create-a-cdk-project)
 * Learning how to build/scale LLM's using various container orchestrators 
 * I'm open to collaborating on anything that will help people develop a passion for the cloud and/or start their careers in tech 
