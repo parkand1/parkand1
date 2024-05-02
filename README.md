@@ -13,14 +13,14 @@
 
 <h4>After 8+ years of working as a Cloud Architect, I have fallen in love with the following areas of cloud computing</h4>
 
-- DevOps
+- DevOps - honestly at this point all the Ops i.e DevSecOps, MLOps... you name it and I've probably dealt with it
 - Tools/Frameworks that make building and deploying containers easier
-- Kubernetes
+- Kubernetes - GitOps, Security, and really anything that helps make it easier for people to use Kubernetes 
 - Infrastructure-as-Code (IaC): CDK, Terraform, Pulumi, CloudFormation
-- Serverless
+- Serverless - Event Driven Architectures (yes, I understand there is a difference), Messaging, Data Processing
 - Cost optimization approaches to help reduce your cloud bill
 - Typescript, Python, Golang are my favorite languages at the moment
-- Trying to learn how to love Rust...
+- Trying to learn how to love Rust... 
 
 <h4>Other areas that I'm passionate about</h4>
 
@@ -31,7 +31,7 @@
 - Building Go-To-Market (GTM) strategies that produce meaningful results and insights 
 
 <h4>Support Me</h4>
-If my content has helped you in any way, I'd appreciate a cup of coffee so I can continue to level up my content!
+If my content has helped you in any way, I'd appreciate a cup of coffee so I can continue to create new content!
 
 <ul style="list-style-type: none; margin: 0;">
 
