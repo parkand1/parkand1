@@ -32,7 +32,6 @@
 
 <h4>Support Me</h4>
 If my content has helped you in any way, I'd appreciate a cup of coffee so I can continue to create new content!
-test
 
 <ul style="list-style-type: none; margin: 0;">
 
